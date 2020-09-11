@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quizzio</string>
+    <string name="contentDesc" />
+    <string name="quizz">Quizz</string>
+    <string name="time">Time !</string>
+    <string name="start">Start!</string>
+    <string name="restart">Restart</string>
+    <string name="thank_you">Thank you to have played the game,\nI hope you enjoyed as I did while I did it</string>
+    <string name="correct_answers">You have %s corrects answers!</string>
+</resources>
